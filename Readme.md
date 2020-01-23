@@ -1,3 +1,3 @@
-### a tutorial on how to use forced aligners and the autovot praat plugin
+### A tutorial on how to use forced aligners and the autovot praat plugin
 
-### I stored the files for easy access. 
+### I stored the files here for easy access. 
